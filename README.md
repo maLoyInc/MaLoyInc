@@ -1,15 +1,18 @@
-# Hi, I'm Yuwen 👋
+<div align="center">
 
-🎮 Big into games — playing them, and slowly working my way toward making
-one of my own. 🌙 Also down a bit of a blockchain/crypto rabbit hole lately,
-mostly out of curiosity for how it all actually works under the hood.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=F7DC6F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Yuwen;Game+Dev+in+progress+%F0%9F%8E%AE;Chasing+ideas+that+actually+run+%E2%9A%99%EF%B8%8F;Currently+diving+into+Blockchain+%26+Agents+%E2%9B%93)](https://git.io/typing-svg)
 
-I like turning ideas into things that actually run — currently messing
-around with agents, automation, and Lua for that game I keep saying I'll finish.
+</div>
+
+### 👋 About Me
+
+🎮 Big into games — playing them, and slowly working my way toward making one of my own.
+🌙 Also down a bit of a blockchain/crypto rabbit hole lately, mostly out of curiosity for how it all actually works under the hood.
+I like turning ideas into things that actually run — currently messing around with agents, automation, and Lua for that game I keep saying I'll finish.
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,7 +23,7 @@ around with agents, automation, and Lua for that game I keep saying I'll finish.
 
 ---
 
-### What I'm messing around with lately
+### 🚧 What I'm messing around with lately
 
 - 🤖 [AI Research Agent](https://github.com/MaLoyInc/ai-research-agent) — an agent that can search, read pages, do math, and remember stuff, built on Gemini
 - 🎮 Working toward my own game in Roblox Studio — mostly Lua and way too much playtesting
@@ -29,12 +32,17 @@ around with agents, automation, and Lua for that game I keep saying I'll finish.
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
 
 ![Yuwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaLoyInc&show_icons=true&theme=default&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaLoyInc&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/yuwen-albert-66ba92371) if you want to say hi.
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwen-albert-66ba92371)
