@@ -4,9 +4,9 @@
 
 </div>
 
-#### **🚀 Tech Stack Used**
+### **🚀 Tech Stack Used**
 
-##### **💻 Languages**
+##### **<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dd7d58e6-2ef9-4bd4-9e44-9b0b1c5c270c" /> Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
