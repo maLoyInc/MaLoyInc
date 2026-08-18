@@ -20,15 +20,8 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### ⛓️ Blockchain & Web3
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
 ### 🤖 AI & Automation
 
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-4B0082?style=for-the-badge&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-1F1F1F?style=for-the-badge&logoColor=white)
@@ -43,27 +36,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-
-### 🚧 What I'm messing around with lately
-
-- 🤖 [AI Research Agent](https://github.com/MaLoyInc/ai-research-agent) — an agent that can search, read pages, do math, and remember stuff, built on Gemini
-- 🎮 Working toward my own game in Roblox Studio — mostly Lua and way too much playtesting
-- ⛓️ Poking around blockchain/crypto lately, trying to actually understand it instead of just using it
-- 📦 A side idea for a SaaS tool that generates UGC affiliate content storyboards
-
 ---
 
-### 📊 GitHub Stats
+### 📫 Contact Me
 
-<div align="center">
-
-![Yuwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaLoyInc&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaLoyInc&layout=compact&hide_border=true)
-
-</div>
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwen-albert-66ba92371)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwen-albert-66ba92371)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuwenzx327@gmail.com)
