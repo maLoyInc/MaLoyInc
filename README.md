@@ -4,19 +4,18 @@
 
 </div>
 
-### 👋 About Me
-
-🎮 Big into games — playing them, and slowly working my way toward making one of my own.
-🌙 Also down a bit of a blockchain/crypto rabbit hole lately, mostly out of curiosity for how it all actually works under the hood.
-I like turning ideas into things that actually run — currently messing around with agents, automation, and Lua for that game I keep saying I'll finish.
+🎮&nbsp; **Game Developer (in progress)** &nbsp;|&nbsp; ⛓️ **Blockchain Explorer** &nbsp;|&nbsp; 🤖 **Automation & Agents**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### ⚙️ Tools
+
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
