@@ -28,9 +28,9 @@ I'm a disciplined and driven learner, always chasing something new to figure out
 
 ##### **AI & Automation**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-4B0082?style=for-the-badge&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-1F1F1F?style=for-the-badge&logoColor=white)
-![9Router](https://img.shields.io/badge/9Router-0F9D58?style=for-the-badge&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B47?style=for-the-badge&logoColor=white)
+![9Router](https://img.shields.io/badge/9Router-2D2D2D?style=for-the-badge&logoColor=white)
 
 ##### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
