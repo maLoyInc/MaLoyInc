@@ -1,13 +1,14 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1500&color=F7DC6F&center=true&vCenter=true&width=900&lines=%F0%9F%8E%AE+Fullstack+Developer+%7C+%F0%9F%A7%A0+AI+Enthusiast)](https://git.io/typing-svg)
-----
+
 </div>
-<div>
+
+----
+
 ### Hi, I'm Yuwen&nbsp;&nbsp;&nbsp;<sup>a Fullstack Developer & AI Tinkerer</sup>
 ----
 I'm a disciplined and driven learner, always chasing something new to figure out. I play well with a team, but ngl, my best work usually happens when I'm left alone with my thoughts (and my code).
-</div>
 <table>
 <tr>
 <td valign="top" width="50%">
