@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1500&color=F7DC6F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Yuwen;%F0%9F%8E%AE+Game+Developer+%7C+%F0%9F%A7%A0+AI+Enthusiast+%7C+%E2%9B%93%EF%B8%8F+Blockchain+Explorer)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F7DC6F,100:667eea&height=120&section=header)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1500&color=F7DC6F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I%27m+Yuwen;%F0%9F%8E%AE+Game+Developer+%7C+%F0%9F%A7%A0+AI+Enthusiast)](https://git.io/typing-svg)
+
+I'm a disciplined and driven learner, always chasing something new to figure out. I play well with a team, but ngl, my best work usually happens when I'm left alone with my thoughts (and my code).
 </div>
-
-### **🚀 Tech Stack Used**
 
 ##### **💬 Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +31,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ⏰ **My Productive Time**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:F7DC6F&height=100&section=footer)
 
 #### **📮 Contact Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwen-albert-66ba92371)
